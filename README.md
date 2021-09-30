@@ -16,7 +16,7 @@ To use this model you need python 3 installs and prepare a 2D CT.
 6. Files: 
     1. what_you_need: the folder that contains example CT
     2. getctfeatures: the function that can provide you CT1, CT2, CT3,
-****    3. main_program.ipny: the main program that you need to run(The only file you need to run)****
+    3. main_program.ipny: the main program that you need to run(The only file you need to run)
     4. model_test_file.csv : example file that will provide you your harris score category after 6 month of THA
     5. preoperative_model.pkl : the pretrained model
     6. requirements.txt : all packages that you need and the version that we used
