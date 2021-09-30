@@ -1,0 +1,9 @@
+python -v 3.8.3
+numpy -v 1.20.0
+pandas -v 1.2.1
+Pillow -v 7.2.0
+matplotlib -v 3.2.2
+cv2 -v 4.5.1
+nrrd -v 0.4.2
+imageio -v 2.9.0
+pyradiomics -v 3.0.1
