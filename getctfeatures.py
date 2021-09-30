@@ -12,7 +12,6 @@ import matplotlib.pyplot as plt
 import cv2
 import os
 import nrrd
-from scipy import misc
 import imageio
 import radiomics
 from radiomics import featureextractor
